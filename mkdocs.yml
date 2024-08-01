@@ -1,0 +1,8 @@
+site_name: "ferkfkr"
+site_description: "kerfnrkejf"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
